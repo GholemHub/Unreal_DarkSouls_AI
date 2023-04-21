@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Character/BS_Swordman.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Character/Skeleton_Sword_Skel.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Character/Skeleton_Swordman_Skel.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Character/BP_SwordEvent.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Animations/AN_Swordman_atack.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Character/Manekin.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Animations/Skeleton_Swordman_Die_Montage.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Character/BP_Swordman.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WS/6M9D65JDHGDZM738OSSX37.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/M4/ZYDN3S3OIPITLKG2SVQ8JP.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Animations/Skeleton_Swordman_Hit_Front_Montage.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/BP_SwordEvent.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/BP_Swordman.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/BS_Swordman.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Manekin.uasset",
+				"D:/Unreal/projects/Floha_UE/Floha/Content/SkeletonCrew/Skeleton_Swordman/Animations/AM_Swordman_atack.uasset",
+				"E:/UE PROJECTS/Floha_UE/Floha_UE/Floha/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
